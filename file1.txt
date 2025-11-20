@@ -1,0 +1,8 @@
+Step 3: Add files to the repository  
+Next, you need to add files to your repository. You can do this by creating new 
+files in the repository directory, or by copying existing files into the repository 
+directory.  
+Once you have added files to your repository, you need to tell Git to track them. 
+To do this, use the following command: git add <file-name>  
+Replace <file-name> with the name of the file you want to track. You can also 
+use git add . to track all files in the repository directory. 
